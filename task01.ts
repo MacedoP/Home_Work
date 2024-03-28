@@ -11,4 +11,4 @@ const addUp=(r:Array<number>)=>{
 
 }
 let res:any = [1, 2, 3, [[[4], 5], [["6"]], { obj: 10 }]]
-console.log(addUp(res)) // 21
+console.log(addUp(res)) 
